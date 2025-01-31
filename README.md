@@ -106,6 +106,16 @@ mvn test
 
 ![alt text](assets/images/image-4.png)
 
+### Build:
+
+- Java - The programming language used
+- Maven - Dependency Management
+- JUnit - Testing Framework for unit tests
+
+### Author:
+
+Juan Daniel Murcia Sanchez - initialWork - murcia0421
+
 
 
 
