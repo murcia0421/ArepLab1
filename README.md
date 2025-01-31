@@ -81,27 +81,6 @@ Use the `/hellopost` route with a `name` parameter to receive a personalized gre
 curl -X POST http://localhost:8080/hellopost?name=Jane
 ```
 
-## Project Structure:
-
-SimpleWebServer/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── edu/escuelaing/arem/
-│   │   │       ├── Server.java          # Server entry point
-│   │   │       └── RequestHandler.java  # HTTP request handler
-│   │   └── resources/
-│   │       └── static/                  # Static files (HTML, CSS, JS)
-│   │           ├── index.html
-│   │           ├── styles.css
-│   │           └── scripts.js
-│   └── test/
-│       └── java/
-│           └── edu/escuelaing/arem/
-│               └── ServerAndRequestHandlerTest.java  # Unit tests
-├── pom.xml                              # Maven configuration
-└── README.md                            # This file
-
 ## Testing:
 
 The project includes unit tests to verify the functionality of the server and request handler. To run the tests, use the following command:
