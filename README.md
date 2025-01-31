@@ -70,6 +70,11 @@ Response: `Hello, John!`
 
 Screenshot:
 
+![alt text](assets/images/image.png)
+![alt text](assets/images/image-1.png)
+![alt text](assets/images/image-2.png)
+![alt text](assets/images/image-3.png)
+
 
 ## POST Requests
 
@@ -98,6 +103,8 @@ mvn test
 - Error handling (404, 500).
 
 ### Screenshot:
+
+![alt text](assets/images/image-4.png)
 
 
 
